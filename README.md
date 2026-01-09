@@ -69,4 +69,4 @@ If you want to run the IMAP checkers (`email_checker.py` / `email_auto_checker.p
 - The ML model is downloaded on first run (see `detector.py`).
 - Runtime outputs (`logs/`, `temp/`, etc.) are excluded via `.gitignore`.
 - Tool Link: https://bitshadow.dev/
-- 
+  
