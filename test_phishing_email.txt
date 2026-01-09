@@ -1,0 +1,14 @@
+From: Apple ID Support <no-reply@appleid-reset-alert.com>
+Subject: [Action Required] Your Apple ID Has Been Locked
+
+Dear Customer,
+
+We've detected suspicious activity on your Apple ID and, for your protection, access has been temporarily suspended. Please confirm your identity by signing in below:
+
+👉 https://appleid-verify-account.com/security
+
+If we do not receive a response within 24 hours, your account will be permanently deactivated.
+
+Thank you for choosing Apple.
+
+Apple Security Team

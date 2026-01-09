@@ -1,0 +1,32 @@
+# --- Python / OS ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.DS_Store
+Thumbs.db
+
+# --- Virtual env ---
+.venv/
+venv/
+ENV/
+
+# --- Secrets ---
+.env
+.env.*
+
+# --- Runtime outputs ---
+logs/
+temp/
+*.log
+feedback_log.txt
+
+# --- Large / downloadable artifacts ---
+ml_model/phishing_model.pkl
+phishing_sample.msg
+phishing_sample_files/
+
+# --- Data (keep only small samples if needed) ---
+*.csv
+*.zip

@@ -1,0 +1,26 @@
+Received email content.
+Keyword matched: password
+Keyword matched: verify
+Keyword matched: account
+Keyword matched: click here
+Keyword matched: suspended
+Received email content.
+Keyword matched: password
+Keyword matched: verify
+Keyword matched: account
+Keyword matched: click here
+Keyword matched: suspended
+2025-04-03 19:03:04,649 - INFO - Received email content.
+2025-04-03 19:03:04,650 - INFO - \u26a0\ufe0f  Keyword matched: verify
+2025-04-03 19:03:04,652 - INFO - \u26a0\ufe0f  Keyword matched: suspend
+2025-04-03 19:03:04,652 - INFO - \u26a0\ufe0f  Keyword matched: account
+2025-04-03 19:03:04,652 - INFO - \u26a0\ufe0f  Keyword matched: click here
+2025-04-05 14:52:37,052 - INFO - \u26a0\ufe0f  Keyword matched: verify
+2025-04-05 14:52:37,056 - INFO - \u26a0\ufe0f  Keyword matched: account
+2025-04-05 14:52:37,057 - INFO - \u26a0\ufe0f  Keyword matched: update
+2025-04-05 14:52:37,058 - INFO - \u26a0\ufe0f  Suspicious link found: https://bit.ly/secure-update
+2025-04-05 14:58:03,385 - INFO - \U0001f4c2 File provided: suspicious_email.txt
+2025-04-05 14:58:03,386 - ERROR - Failed to read TXT file: [Errno 2] No such file or directory: 'suspicious_email.txt'
+[2025-04-05 17:45:15] [PHISHING] Source: Manual Input
+Content: Urgent: Your PayPal account is suspended. Click here to verify now!...
+

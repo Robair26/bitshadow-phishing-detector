@@ -1,0 +1,10 @@
+From: order-update@amazon.com
+Subject: Your Amazon order has shipped!
+
+Hi Robair,
+
+Your recent order #123-4567890-1234567 has been shipped and is on its way. You can track your package using the link below:
+
+https://www.amazon.com/track-order
+
+Thank you for shopping with Amazon!

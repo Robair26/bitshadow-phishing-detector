@@ -1,0 +1,13 @@
+From: alert@goog1e-security.com
+Subject: Suspicious Login Attempt Detected
+
+Dear User,
+
+We've detected a suspicious login attempt from a new device.
+
+To protect your account, please confirm your identity at:
+https://goog1e-security.com/verify-now
+
+This is a critical security alert. Act fast to avoid account lock.
+
+Google Security Team
